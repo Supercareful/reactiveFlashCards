@@ -1,0 +1,1 @@
+Reactive flashcard maker made using create-react-app. Database credentials removed from code.
